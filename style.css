@@ -1,0 +1,17 @@
+ body{
+    margin:20px;
+    padding:30px 35px 20px 95px;
+    background-color: rgb(232, 231, 231);
+} 
+.card{
+    width: 250px;
+    align-items: center;
+
+} 
+.card-body{
+    text-align: center;
+} 
+
+.card-title{
+    color: rgb(80, 80, 233);
+}
